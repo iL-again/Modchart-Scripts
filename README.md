@@ -1,2 +1,5 @@
 # Modchart-Scripts
-I'm not actually giving out my scripts rather everything besides the models.
+
+Nobody really needs this but ok.
+
+Models are not included in here.
